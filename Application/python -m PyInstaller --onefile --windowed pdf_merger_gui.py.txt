@@ -1,0 +1,2 @@
+This will create an application with a default setting
+python -m PyInstaller --onefile --windowed pdf_merger_gui.py
