@@ -4,7 +4,9 @@ files/bw_pdf/
 SAPTableCompare/*.xlsx
 SAPTableCompare/*.png
 SAPTableCompare/*.txt
-SAPTAbleCompare/*.lnk
+SAPTableCompare/*.lnk
+SAPTableCompare/*.ink
+SAPTableCompare/ignore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
