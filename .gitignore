@@ -1,6 +1,9 @@
 ##Pongpisut
 files/bw_pdf/
 *.pdf
+SAPTableCompare/*.xlsx
+SAPTableCompare/*.png
+SAPTableCompare/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
